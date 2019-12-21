@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userOverrides>
+    <override>
+        <path>C:\Users\Студент-09\Desktop\gg\main.cpp</path>
+        <encoding>Win-1251</encoding>
+    </override>
+    <override>
+        <path>C:\Users\Студент-09\Desktop\gg\startup.cpp</path>
+        <encoding>Win-1251</encoding>
+    </override>
+</userOverrides>
